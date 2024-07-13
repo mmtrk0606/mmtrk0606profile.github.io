@@ -1,0 +1,19 @@
+/* プロフィール */
+.profile img {
+    max-width: 100px;
+}
+
+/* 趣味 */
+.hobby img {
+    max-width: 300px;
+}
+
+.sunobo video {
+    max-width: 300px;
+}
+
+/* テーブル */
+.table {
+    width: 100%;
+    max-width: 300px;
+}
